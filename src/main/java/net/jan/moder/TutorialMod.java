@@ -13,6 +13,6 @@ public class TutorialMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Hello Fabric worldEE!");
 	}
 }
