@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "xviis-century-pirate-addon-",
+	"version": "${version}",
+	"name": "XVII's century pirate addon ",
+	"description": "This mod makes swimming through XVII's century water mmore... interesting",
+	"authors": [
+		"janeczek_2137 (slodki_piesek on discord)"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/xviis-century-pirate-addon-/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.jan.moder.TutorialMod"
+		],
+		"client": [
+			"net.jan.moder.TutorialModClient"
+		],
+		"fabric-datagen": [
+			"net.jan.moder.TutorialModDataGenerator"
+		]
+	},
+	"mixins": [
+		"xviis-century-pirate-addon-.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
