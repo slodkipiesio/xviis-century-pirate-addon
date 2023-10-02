@@ -19,13 +19,13 @@ List of stuffs i want to add:
 
 -boats that spawn on the ocean (if using the valkyrien skies version, they will have a ship helm), there will be 4 types of boats:
 
-Good, with Villagetrs and a vandering trader as a captain
+1. Good, with Villagetrs and a vandering trader as a captain
 
-Bad, with Illagers and a pirate captain as a captain
+2. Bad, with Illagers and a pirate captain as a captain
 
-Pillaged boats, broken boats with 2-4 villagers on board and 1 chest
+3. Pillaged boats, broken boats with 2-4 villagers on board and 1 chest
 
-Updated wrecked boats, the vanilla wrecked boats will have an additionall dead pirate captain and a bigger spawn rate of drowned zombies
+4. Updated wrecked boats, the vanilla wrecked boats will have an additionall dead pirate captain and a bigger spawn rate of drowned zombies
 
 -killer fish (killer fish from san diego)
 
