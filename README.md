@@ -1,6 +1,8 @@
-# XVII's century pirate addon for valkyrien skies and eureka
+# XVII's century pirate mod (or addon for valkyrien skies and eureka)
 
-this is a little tiny add-on to the valkyrien skies and eureka that adds cannons and other pirate stuff
+*(this mod is firstly: W.I.P, secondly: splitted in two parts, one, that doesnt require valkyrien skies and eureka, and one thet does, i would consider using the valkyrien skies version as it will be better)*
+
+this is just a little tiny mod
 [W.I.P]
 
 Modrinth -> https://modrinth.com/mod/xviisxviis-century-pirate-mod
